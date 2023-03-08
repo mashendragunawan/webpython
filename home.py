@@ -1,5 +1,5 @@
 print("hello world")
-if {
-    delattr 34
-    
-}
+#if {
+ #   delattr 34
+
+#}

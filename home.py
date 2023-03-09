@@ -3,3 +3,4 @@ print("hello world")
  #   delattr 34
 
 #}
+print("Selamat pagi bu")

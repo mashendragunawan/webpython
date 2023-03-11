@@ -8,3 +8,5 @@ angka2 = int(input("masukan angka kedua="))
 hasil= angka1+angka2 
 
 print("Hail Penjumlahan dari",angka1,"+",angka2,"adalah",hasil)
+
+print("aku ber hasil belajar")

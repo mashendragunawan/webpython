@@ -78,3 +78,4 @@ for row in data:
     print(row)
 
 print("Aku BERHASIL")
+print("Dan AKU BANGGA")

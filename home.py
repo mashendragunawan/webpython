@@ -72,7 +72,7 @@ db.database="hendra"
 db.commit()
 
 #MENAMILKAN ISI DARI TABEL 
-cursor.execute("SELECT  * FROM bio")
+cursor.execute("SELECT  * FROM bio WHERE nama='Hendra'")
 data = cursor.fetchall()
 for row in data:
     print(row)

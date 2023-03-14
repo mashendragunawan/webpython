@@ -76,3 +76,5 @@ cursor.execute("SELECT  * FROM bio WHERE nama='Hendra'")
 data = cursor.fetchall()
 for row in data:
     print(row)
+
+print("Aku BERHASIL")

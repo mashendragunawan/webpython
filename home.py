@@ -66,6 +66,7 @@ db.database="hendra"
 #cursor.execute("INSERT INTO bio (nama,alamat) VALUES('GUNAWAN','karawang')")
 
 #cursor.execute("ALTER TABLE bio DROP tanggal")
+cursor.execute("INSERT INTO bio (nama,alamat) VALUES ('GUGUN', 'KUNINGAN')")
 db.commit()
 
 #MENAMILKAN ISI DARI TABEL 

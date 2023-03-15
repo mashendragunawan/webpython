@@ -1,9 +1,9 @@
-from flask import Flask, render_template
+from flask import Flask
+
 app = Flask(__name__)
 
-if(__name__=="__main__") :
-    app.run(debug = True)
+@app.route('/')
+def index():
+    return 'Akhirnya Aku Bisa Juga MENAMPILKAN WEB dengan python'
 
-@app.route("/")
-def welcome() :
-    return "welcome to my web"
+app.run(host='0.0.0.0', port=229)

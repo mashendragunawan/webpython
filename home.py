@@ -84,11 +84,3 @@ print("saiki wes sadar")
 print("saiki wes sadar")
 print("telalu mayo mergo")
 
-var =1
-int = 2
-if {
-    1 > 1: 
-}
-else{
-        print("kamu goblok")
-}

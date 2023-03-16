@@ -79,3 +79,4 @@ for row in data:
 
 print("Aku BERHASIL")
 print("Dan AKU BANGGA")
+print("AKU AKU")

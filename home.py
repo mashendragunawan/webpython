@@ -84,3 +84,4 @@ print("saiki wes sadar")
 print("saiki wes sadar")
 print("telalu mayo mergo")
 
+print("mayo")

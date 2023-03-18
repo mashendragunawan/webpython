@@ -87,7 +87,10 @@ print("telalu mayo mergo")
 print("mayo")
 print("Pendapatan Rajal Hari ini adalah Rp.20.359.443")
 
-angka = int(input("Masukan Angka Pertama : "))
+angka1 = int(input("Masukan Angka Pertama : "))
+angka2 = int(input("Masukan Angka Ke Dua : "))
 
-print("Angka Yang ada Masukan adalah angka",angka)
+print("Angka Yang ada Masukan adalah angka",angka1)
+
+print("Angka Kedua Yang Anda Masukan Adalah angka",angka2)
 

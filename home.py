@@ -85,3 +85,4 @@ print("saiki wes sadar")
 print("telalu mayo mergo")
 
 print("mayo")
+print("Pendapatan Rajal Hari ini adalah Rp.20.359.443")
